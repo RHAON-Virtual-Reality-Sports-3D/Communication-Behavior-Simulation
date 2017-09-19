@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{65F7B5DB-8916-185E-1F8E-33DBC7465F60}") = "FORAGING", "Assembly-CSharp.csproj", "{BEFE87C2-F8BE-A127-82D4-FBBE64CCA6EC}"
+EndProject
+Project("{65F7B5DB-8916-185E-1F8E-33DBC7465F60}") = "FORAGING", "Assembly-CSharp-Editor.csproj", "{1D3D821E-2D82-577B-E7BC-5FE3C7AA019E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFE87C2-F8BE-A127-82D4-FBBE64CCA6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFE87C2-F8BE-A127-82D4-FBBE64CCA6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFE87C2-F8BE-A127-82D4-FBBE64CCA6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFE87C2-F8BE-A127-82D4-FBBE64CCA6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D3D821E-2D82-577B-E7BC-5FE3C7AA019E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3D821E-2D82-577B-E7BC-5FE3C7AA019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3D821E-2D82-577B-E7BC-5FE3C7AA019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3D821E-2D82-577B-E7BC-5FE3C7AA019E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
